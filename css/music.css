@@ -1,0 +1,23 @@
+.body{
+    background-color: hsla(229, 88%, 41%, 0.685);
+    font-family: "Lucidia Console", monospace ;
+}
+
+.div_iib{
+    position: relative;
+    right: 00px;
+}
+
+.div_ww{
+    position: absolute;
+    left: 360px;
+    top: 214px;
+    width:100%;
+}
+
+.div_one{
+    position: absolute;
+    left: 360px;
+    top: 335px;
+    width:100%;
+}

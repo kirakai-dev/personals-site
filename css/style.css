@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+}
+
+.div_test{
+    height: 100px;
+    width: 150px;
+    color: aqua;
+    text-size-adjust: 100px;
+    background-color: hsl(271, 76%, 53%);
+}
+
+.body{
+    background-color: hsl(189, 91%, 36%);
+    color: hsl(303, 88%, 16%);
+}
